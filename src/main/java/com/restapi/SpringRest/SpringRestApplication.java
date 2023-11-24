@@ -8,7 +8,7 @@ public class SpringRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringRestApplication.class, args);
-		System.out.println("its working");
+		System.out.println("its working 245");
 	}
 
 }
