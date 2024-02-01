@@ -3,12 +3,15 @@ package com.restapi.SpringRest;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
+
 @SpringBootApplication
 public class SpringRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringRestApplication.class, args);
-		System.out.println("its working 245sgit123");
+		System.out.println("its working 245sgigitt123");
+		
 	}
 
 }
